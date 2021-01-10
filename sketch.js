@@ -74,7 +74,7 @@ function setup() {
   
   score = 0;
   level = 0;
-  left=createSprite(20,50,10,10);
+  left=createSprite(100,150,10,10);
   }
 
 function draw() {
